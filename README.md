@@ -4,7 +4,7 @@ This is Japanese translation of OSPO Report "[The 2023 State of OSPOs and OSS In
 
 Note:  Pdf file in this repository may not be "published version". But anyway the translation here will be reviewed by LF Japan and released.
 
-# Total volume
+## Document volume
 - 47-page slide
 - 12,658 words 
 
