@@ -1,4 +1,4 @@
-# Translation OSPO Paper 2021
+# Translation "2023 The state of OSPO (by LF Research) "
 
 This is Japanese translation of OSPO Report "[The 2023 State of OSPOs and OSS Initiatives](https://www.linuxfoundation.org/research/ospo-2023)" by LF Research. Note that the original paper is translated **collaboratively** . 
 
